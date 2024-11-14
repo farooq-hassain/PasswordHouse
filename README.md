@@ -9,6 +9,7 @@ Clone this repository
 use the following commands: 
 
 cd PasswordHouse
+
 chmod +x insr.sh
 
 sudo su
